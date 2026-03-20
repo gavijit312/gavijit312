@@ -115,8 +115,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavijit312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gavijit312&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 ###
@@ -126,12 +127,12 @@
 
 ###
 
-<a href="https://www.instagram.com/oldmonk_02">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-
 <a href="https://discord.gg/YhJsWpAw">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+
+<a href="https://www.instagram.com/oldmonk_02">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 
 <a href="mailto:gavijit312@gmail.com">
@@ -142,7 +143,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
-<br clear="both">
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=gavijit312&theme=dark&hide_border=false)<br/>
