@@ -141,7 +141,6 @@
 <a href="https://www.linkedin.com/in/avijit-ghosh-530909339">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-###
 
 <br clear="both">
 
