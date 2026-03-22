@@ -71,9 +71,14 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ###
-<a href="https://imgflip.com/i/7w9kks"><img src="https://i.imgflip.com/7w9kks.jpg" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/i/7w9kks">
+  <img align="right" height="150" src="https://i.imgflip.com/7w9kks.jpg" />
+</a>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=gavijit312&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+<img align="right" height="150" src="https://static.wikia.nocookie.net/ben10/images/6/6b/Ghostfreak_OS.png" />
