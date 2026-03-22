@@ -81,6 +81,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<a href="https://ben10.fandom.com/wiki/Ghostfreak">
-  <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/7/7f/Ghostfreak.png" />
-</a>
+<img align="right" height="150" src="https://media.tenor.com/0MZ7Y1m7Qz8AAAAC/buri-buri-zaemon.gif" />
