@@ -81,4 +81,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<img align="right" height="150" src="https://static.wikia.nocookie.net/ben10/images/6/6b/Ghostfreak_OS.png" />
+<a href="https://ben10.fandom.com/wiki/Ghostfreak">
+  <img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/7/7f/Ghostfreak.png" />
+</a>
