@@ -81,6 +81,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<a href="https://imgflip.com/meme/362423025/Buri-Buri-Zaemon">
-  <img align="right" height="150" src="https://i.imgflip.com/7w9kks.jpg" />
-</a>
+<img align="right" height="150" src="https://i.imgflip.com/47wmbn.jpg" />
