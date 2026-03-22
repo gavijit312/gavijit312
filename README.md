@@ -70,6 +70,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=gavijit312&theme=dark&hide_border=false)<br/>
