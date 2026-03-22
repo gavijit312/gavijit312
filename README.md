@@ -71,7 +71,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ###
-<a href="https://imgflip.com/i/7w9kks"><img src="https://i.imgflip.com/7w9kks.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/7w9kks"><img src="https://i.imgflip.com/7w9kks.jpg" title="made at imgflip.com"/></a>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=gavijit312&theme=dark&hide_border=false)<br/>
