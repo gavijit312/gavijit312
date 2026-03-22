@@ -10,9 +10,6 @@
 ---
 
 ### 📫 Let's Connect
-###
-
-### 📫 Let's Connect
 
 <a href="https://discord.gg/YhJsWpAw">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
@@ -30,6 +27,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 # 💻 Tech Stack:
+
 ### 🧠 Programming Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
