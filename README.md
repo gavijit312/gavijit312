@@ -71,7 +71,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
 
 
 # 📊 GitHub Stats:
