@@ -26,8 +26,9 @@
 <a href="https://www.linkedin.com/in/avijit-ghosh-530909339">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
-# 💻 Tech Stack:
 
+
+# 💻 Tech Stack:
 ### 🧠 Programming Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
