@@ -81,6 +81,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<a href="https://imgflip.com/memetemplate/640490917/Shinchan">
-  <img align="right" height="150" src="https://i.imgflip.com/8x6l3p.jpg" />
+<a href="https://imgflip.com/memetemplate/136634110/Shinchan">
+  <img align="right" height="150" src="https://i.imgflip.com/2z4o8h.jpg" />
 </a>
