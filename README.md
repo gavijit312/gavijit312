@@ -78,7 +78,18 @@
 
 
 # 📊 GitHub Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/gavijit312/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gavijiit312&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <a href="https://github.com/gavijit312/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages" />
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavijit312&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
