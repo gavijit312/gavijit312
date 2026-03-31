@@ -78,7 +78,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=gavijit312&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![AVIJIT's github stats](https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik34&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/gavijit312/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gavijiit312&theme=dark)](https://git.io/streak-stats)
 
