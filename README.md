@@ -81,17 +81,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/gavijit312">
-    <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <h2 align="center">Most Used Languages</h2>
 
 <p align="center">
-  <a href="https://github.com/gavijit312">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
