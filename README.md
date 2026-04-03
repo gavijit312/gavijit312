@@ -78,18 +78,25 @@
 
 
 # 📊 GitHub Stats:
+<h2 align="center">GitHub Stats</h2>
+
 <p align="center">
-  <!-- GitHub Stats -->
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <a href="https://github.com/gavijit312/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/gavijit312">
+    <img src="https://github-readme-stats.vercel.app/api?username=gavijit312&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </p>
 
+<h2 align="center">Most Used Languages</h2>
+
+<p align="center">
+  <a href="https://github.com/gavijit312">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavijit312&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  </a>
+</p>
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavijit312&theme=dark" alt="GitHub Streak" />
+    
   </a>
 </p>
 
