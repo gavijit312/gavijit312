@@ -263,14 +263,13 @@ AI-powered multi-agent system for legal, financial, compliance and risk analysis
 
 <br/>
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg" alt="GitHub Contribution Snake">
 </picture>
-
 ---
 
 # 🌐 Connect With Me
