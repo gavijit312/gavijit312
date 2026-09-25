@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Update GitHub Profile Stats
 
 on:
 schedule:
@@ -6,34 +6,48 @@ schedule:
 
 workflow_dispatch:
 
-push:
-branches:
-- main
-
 permissions:
 contents: write
 
 jobs:
-generate:
+stats:
 runs-on: ubuntu-latest
 
 ```
-timeout-minutes: 10
-
 steps:
-  - name: Generate GitHub Contribution Snake
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-snake.svg
-        dist/github-snake-dark.svg?palette=github-dark
+  - name: Checkout repository
+    uses: actions/checkout@v4
 
-  - name: Publish Snake
-    uses: crazy-max/ghaction-github-pages@v3.1.0
+  - name: Create profile directory
+    run: mkdir -p profile
+
+  - name: Generate GitHub Stats
+    uses: stats-organization/github-readme-stats-action@v2
     with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      card: stats
+      options: username=gavijit312&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9
+      path: profile/stats.svg
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Generate Top Languages
+    uses: stats-organization/github-readme-stats-action@v2
+    with:
+      card: top-langs
+      options: username=gavijit312&layout=donut&langs_count=8&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9
+      path: profile/top-langs.svg
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Commit generated stats
+    run: |
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add profile/*.svg
+
+      if git diff --cached --quiet; then
+        echo "No changes to commit."
+      else
+        git commit -m "Update GitHub profile stats"
+        git push
+      fi
 ```
