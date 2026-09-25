@@ -257,9 +257,20 @@ AI-powered multi-agent system for legal, financial, compliance and risk analysis
 
 <br/>
 
-## 📈 Contribution Activity
+## ☄️ Contribution Activity
 
-![Avijit's GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=gavijit312&theme=react-dark&hide_border=true&area=true&custom_title=Avijit's%20Contribution%20Activity)
+<picture>
+  <source
+    media="(prefers-reduced-motion: reduce)"
+    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/comet-graph/comet-reduced.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/gavijit312/gavijit312/comet-graph/comet.svg"
+    alt="Avijit's GitHub Contribution Activity"
+    width="100%"
+  />
+</picture>
+
 
 <br/>
 
