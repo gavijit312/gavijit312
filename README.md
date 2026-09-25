@@ -312,11 +312,15 @@ Multi-agent AI system designed to assist with document analysis and due diligenc
 
 <div align="center">
 
-### 🖤 Developer Statistics
+<img src="./profile/stats.svg" width="490"/>
 
-<img src="./profile/stats.svg" width="495"/>
-<img src="./profile/top-langs.svg" width="495"/>
+<img src="./profile/top-langs.svg" width="390"/>
 
+<br><br>
+
+<sub>⚡ CODE • PROJECTS • LANGUAGES • CONTRIBUTIONS</sub>
+
+</div>
 <br>
 
 ### ⚡ CODE • CONTRIBUTIONS • LANGUAGES
