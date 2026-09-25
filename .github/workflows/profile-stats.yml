@@ -1,39 +1,37 @@
-name: Update GitHub Profile Stats
+﻿name: Update GitHub Profile Stats
 
 on:
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-stats:
-runs-on: ubuntu-latest
+  stats:
+    runs-on: ubuntu-latest
 
-```
-permissions:
-  contents: write
+    permissions:
+      contents: write
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v6
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
-  - name: Generate stats card
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: stats
-      path: profile/stats.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Generate top languages card
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: top-langs
-      path: profile/top-langs.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Commit generated cards
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add profile/
-      git commit -m "Update GitHub profile stats" || exit 0
-      git push
-```
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "Update GitHub profile stats" || exit 0
+          git push
