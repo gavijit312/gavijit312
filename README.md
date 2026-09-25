@@ -259,29 +259,17 @@ AI-powered multi-agent system for legal, financial, compliance and risk analysis
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gavijit312&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Avijit's%20Contribution%20Activity"
-    width="100%"
-    alt="Avijit's GitHub Contribution Activity"
-  />
-</p>
+![Avijit's GitHub Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=gavijit312&theme=react-dark&hide_border=true&area=true&custom_title=Avijit's%20Contribution%20Activity)
 
 <br/>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg"/>
-    <img
-      src="./output/github-snake-dark.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 ---
 
