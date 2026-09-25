@@ -1,27 +1,12 @@
 <div align="center">
 
-# ⚡ Hey, I'm Avijit Ghosh
+# 👋 Hi, I'm Avijit Ghosh
 
-### 🤖 AI/ML Developer • 🧠 GenAI & LLMs • 🔎 RAG • 👁️ Computer Vision
+### 🤖 AI/ML Engineer • GenAI & LLMs • Computer Vision • Full-Stack Development
 
-Building intelligent systems that connect **AI, data, retrieval and real-world applications.**
+Building intelligent systems with **AI, Machine Learning, Generative AI, LLMs, RAG, Computer Vision and modern web technologies.**
 
-<br>
-
-<a href="https://github.com/gavijit312">
-  <img src="https://img.shields.io/badge/GitHub-gavijit312-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/avijit-ghosh-530909339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Avijit%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/5666964d5dfb5bb1e6642a100af2bda3bff70fbb916d6fe43ccf3ddd7ac6662c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61632f36332f66382f61633633663866656333623761373839343137653934343362663839356539342e676966" width="100%" />
+<img src="https://camo.githubusercontent.com/5666964d5dfb5bb1e6642a100af2bda3bff70fbb916d6fe43ccf3ddd7ac6662c/68747470733a2f2f692e70696e696e672e636f6d2f6f726967696e616c732f61632f36332f66382f61633633663866656333623761373839343137653934343362663839356539342e676966" width="500"/>
 
 </div>
 
@@ -29,357 +14,297 @@ Building intelligent systems that connect **AI, data, retrieval and real-world a
 
 ## 🧠 About Me
 
-I'm **Avijit Ghosh**, an engineering student focused on building practical **AI/ML and Generative AI applications**.
-
-My work mainly revolves around:
-
-* 🧠 **Generative AI & Large Language Models**
-* 🔎 **RAG, Corrective RAG & intelligent retrieval**
-* 🤖 **AI agents and multi-agent systems**
-* 👁️ **Computer Vision**
-* 📊 **Machine Learning & Data Science**
-* ⚡ **FastAPI-based AI backends**
-* 🎨 **Interactive AI/Web applications**
-
-I enjoy taking an idea from **dataset → model → retrieval → API → user-facing application**.
-
-Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-oriented GenAI skills**.
+* 🎓 B.E. student at **UIT Bardhaman**, graduating in **2027**
+* 🤖 Focused on **Artificial Intelligence, Machine Learning & Generative AI**
+* 🧠 Interested in **LLMs, RAG, Corrective RAG and AI Agents**
+* 👁️ Building projects in **Computer Vision & Deep Learning**
+* 🔗 Working with **LangChain, LangGraph, FAISS, Hugging Face and Ollama**
+* ⚡ Building AI APIs and applications using **FastAPI & Streamlit**
+* 💻 Also interested in **Frontend Development and modern web technologies**
+* 🚀 Experimenting with new AI architectures and real-world applications
 
 ---
 
 # 🚀 What I'm Building
 
 ```text
-                 ┌──────────────────────────┐
-                 │      AI APPLICATION      │
-                 └────────────┬─────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │      LLM / AI AGENTS     │
-                 └────────────┬─────────────┘
-                              │
-              ┌───────────────▼────────────────┐
-              │       RAG / CORRECTIVE RAG     │
-              │   Dense + Sparse + Reranking   │
-              └───────────────┬────────────────┘
-                              │
-                 ┌────────────▼─────────────┐
-                 │       DATA / MODELS      │
-                 │ ML • CV • NLP • Embeddings│
-                 └──────────────────────────┘
+                         ┌─────────────────────┐
+                         │     AI / ML CORE     │
+                         │                     │
+                         │  ML • DL • CV • NLP │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     GENERATIVE AI   │
+                         │                     │
+                         │ LLMs • RAG • CRAG   │
+                         │ Agents • Prompting  │
+                         └──────────┬──────────┘
+                                    │
+                     ┌──────────────┴──────────────┐
+                     ▼                             ▼
+            ┌──────────────────┐          ┌──────────────────┐
+            │   AI BACKENDS    │          │ AI APPLICATIONS  │
+            │                  │          │                  │
+            │ FastAPI          │          │ Streamlit        │
+            │ LangChain        │          │ Web Apps         │
+            │ LangGraph        │          │ AI Assistants    │
+            └────────┬─────────┘          └────────┬─────────┘
+                     │                             │
+                     └──────────────┬──────────────┘
+                                    ▼
+                         ┌─────────────────────┐
+                         │   REAL-WORLD AI     │
+                         │                     │
+                         │ Intelligent Systems │
+                         │ & AI Products       │
+                         └─────────────────────┘
 ```
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL" />
-</p>
-
-<p align="center">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;
-  <b>Java</b>&nbsp;&nbsp;&nbsp;
-  <b>C</b>&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
-  <b>SQL</b>
-</p>
-
----
-
 ## 🤖 AI / Machine Learning
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55" height="55" alt="Scikit-learn" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch"/>
 </p>
 
-<p align="center">
-  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;
-  <b>TensorFlow</b>&nbsp;&nbsp;&nbsp;
-  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;
-  <b>NumPy</b>&nbsp;&nbsp;&nbsp;
-  <b>Pandas</b>&nbsp;&nbsp;&nbsp;
-  <b>Scikit-learn</b>
-</p>
+**Python • NumPy • Pandas • Matplotlib • Scikit-learn • TensorFlow • PyTorch • OpenCV**
 
 ---
 
 ## 🧠 Generative AI & LLM
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain" />
-  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="55" height="55" alt="LangGraph" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face" />
-  <img src="https://cdn.simpleicons.org/ollama/ffffff" width="55" height="55" alt="Ollama" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" alt="Google Gemini" />
+<p align="left">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="55" height="55" alt="Ollama"/>
+<img src="https://cdn.simpleicons.org/openai/000000" width="55" height="55" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" alt="Google AI"/>
 </p>
 
-<p align="center">
-  <b>LangChain</b>&nbsp;&nbsp;&nbsp;
-  <b>LangGraph</b>&nbsp;&nbsp;&nbsp;
-  <b>Hugging Face</b>&nbsp;&nbsp;&nbsp;
-  <b>Ollama</b>&nbsp;&nbsp;&nbsp;
-  <b>Gemini</b>
-</p>
-
-<br>
-
-<div align="center">
-
-🔎 **RAG**   •  
-🔄 **Corrective RAG**   •  
-🧬 **Embeddings**   •  
-🎯 **Cross-Encoder Reranking**   •  
-🤖 **AI Agents**
-
-</div>
+**LLMs • RAG • Corrective RAG • Prompt Engineering • LangChain • LangGraph • Hugging Face • Ollama • FAISS • BM25 • Cross-Encoder**
 
 ---
 
-## 👁️ Computer Vision
+## 🌐 Backend & APIs
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" />
-  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="55" height="55" alt="MediaPipe" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/>
 </p>
 
-<p align="center">
-  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;
-  <b>MediaPipe</b>&nbsp;&nbsp;&nbsp;
-  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;
-  <b>TensorFlow</b>
-</p>
+**FastAPI • Node.js • Express.js • REST APIs • MySQL • PostgreSQL • Oracle**
 
 ---
 
-## 🌐 Web Development
+## 🎨 Frontend
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS"/>
 </p>
 
-<p align="center">
-  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
-  <b>React</b>&nbsp;&nbsp;&nbsp;
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Express</b>&nbsp;&nbsp;&nbsp;
-  <b>Tailwind CSS</b>
-</p>
+**HTML5 • CSS3 • JavaScript • React • Tailwind CSS**
 
 ---
 
-## ⚡ AI Backend & Deployment
+## 💻 Programming
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="55" height="55" alt="FastAPI" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
 </p>
 
-<p align="center">
-  <b>FastAPI</b>&nbsp;&nbsp;&nbsp;
-  <b>Streamlit</b>&nbsp;&nbsp;&nbsp;
-  <b>Docker</b>&nbsp;&nbsp;&nbsp;
-  <b>REST APIs</b>&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="Oracle" />
-</p>
-
-<p align="center">
-  <b>MySQL</b>&nbsp;&nbsp;&nbsp;
-  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;
-  <b>Oracle</b>
-</p>
+**Java • Python • C • SQL**
 
 ---
 
 ## 🔧 Tools & Platforms
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="55" height="55" alt="Google Colab"/>
 </p>
 
-<p align="center">
-  <b>Git</b>&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>&nbsp;&nbsp;&nbsp;
-  <b>Jupyter</b>&nbsp;&nbsp;&nbsp;
-  <b>Google Colab</b>&nbsp;&nbsp;&nbsp;
-  <b>Hugging Face</b>
-</p>
+**Git • GitHub • VS Code • Jupyter • Google Colab • Streamlit**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔎 Corrective RAG — Intelligent Document Retrieval
+## 🔎 Corrective RAG — AI Document Intelligence
 
-A retrieval system designed to improve the quality of context supplied to LLMs.
+A retrieval system designed to improve the quality of answers from uploaded documents.
+
+**Key Technologies**
+
+* FAISS dense retrieval
+* BM25 sparse retrieval
+* Cross-Encoder reranking
+* Retrieval quality evaluation
+* RAGAS evaluation
+* Gemini / LLM integration
+* FastAPI backend
+* Streamlit interface
 
 ```text
 PDF
  ↓
+Document Processing
+ ↓
 Chunking
  ↓
-Dense Retrieval ─────┐
-                     ├──► Hybrid Retrieval
-BM25 Sparse Search ──┘
- ↓
-Cross-Encoder Reranking
- ↓
-Retrieval Quality Evaluation
- ↓
-LLM Response
+ ┌───────────────┬───────────────┐
+ │               │               │
+FAISS           BM25          Retrieval
+Dense           Sparse        Candidates
+ │               │               │
+ └───────────────┴───────┬───────┘
+                         ↓
+                Cross-Encoder
+                   Reranking
+                         ↓
+                Quality Evaluation
+                         ↓
+                       LLM
+                         ↓
+                      Answer
 ```
-
-**Tech:** Python • FAISS • BM25 • Cross-Encoder • RAG • FastAPI • Streamlit • LLMs
 
 ---
 
 ## 🤟 Indian Sign Language Recognition
 
-Computer vision system for recognizing Indian Sign Language using landmark-based sequence modelling.
+Deep learning system for recognizing Indian Sign Language gestures using landmark-based sequence modeling.
+
+**Technologies**
+
+* MediaPipe Holistic
+* PyTorch
+* LSTM / Bi-LSTM
+* Attention
+* Computer Vision
+* Sequence Modeling
+* Video Processing
 
 ```text
 Video / Webcam
       ↓
 MediaPipe Holistic
       ↓
-Body + Hand + Face Landmarks
+Body + Hand + Pose Landmarks
       ↓
-Temporal Sequence
+Feature Sequence
       ↓
 Bi-LSTM + Attention
       ↓
 Sign / Word Prediction
+      ↓
+Text / Speech
 ```
-
-**Tech:** Python • MediaPipe • OpenCV • PyTorch • LSTM • Attention
 
 ---
 
 ## 🩺 Skin Cancer Detection
 
-Deep learning project for classifying skin lesion images using the HAM10000 dataset.
+Deep learning image classification system trained using dermoscopic skin lesion images.
 
-**Tech:** Python • TensorFlow • CNN • Computer Vision • OpenCV • NumPy • Pandas
+**Technologies**
 
-Focus areas:
-
-* Image preprocessing
-* Dataset splitting
-* Model training
-* Validation
-* Performance evaluation
-* Medical image classification
+* TensorFlow
+* CNN
+* Transfer Learning
+* OpenCV
+* NumPy
+* Pandas
+* HAM10000 Dataset
 
 ---
 
 ## 🖼️ AI Image Authenticity Detector
 
-Deep learning system for distinguishing between real and AI-generated images.
+Computer vision system designed to classify images as real or AI-generated.
 
-```text
-Input Image
-     ↓
-Preprocessing
-     ↓
-EfficientNet-B4
-     ↓
-Feature Extraction
-     ↓
-Binary Classification
-     ↓
-Real / AI Generated
-```
+**Technologies**
 
-**Tech:** Python • PyTorch • EfficientNet-B4 • Computer Vision
+* PyTorch
+* EfficientNet-B4
+* Computer Vision
+* Deep Learning
+* Image Classification
 
 ---
 
 ## ⚖️ AI Due Diligence Copilot
 
-AI-powered system built around specialized agents for analyzing documents and producing structured insights.
+Multi-agent AI system designed to assist with document analysis and due diligence workflows.
 
 ```text
-                    ┌───────────────┐
-                    │   User Query  │
-                    └───────┬───────┘
-                            │
-                    ┌───────▼───────┐
-                    │  LangGraph    │
-                    │ Orchestration │
-                    └───────┬───────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       ▼                    ▼                    ▼
-   Legal Agent         Finance Agent       Compliance Agent
-       │                    │                    │
-       └────────────────────┼────────────────────┘
-                            ▼
-                     Risk Analysis
-                            │
-                            ▼
-                     Final Summary
+                    User
+                      │
+                      ▼
+                AI Orchestrator
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+    Legal          Finance       Compliance
+     Agent           Agent          Agent
+       │              │              │
+       └──────────────┼──────────────┘
+                      ▼
+                 Risk Analysis
+                      │
+                      ▼
+                  Summary / QA
 ```
 
-**Tech:** LangGraph • RAG • LLMs • FastAPI • Streamlit
+**Technologies**
+
+* LangGraph
+* LangChain
+* RAG
+* LLMs
+* FastAPI
+* Streamlit
+* Vector Search
 
 ---
 
-# 🧩 AI Engineering Focus
+# 🧠 AI Engineering Focus
 
-<div align="center">
-
-| Area                | Technologies                           |
-| ------------------- | -------------------------------------- |
-| 🤖 Machine Learning | Scikit-learn • TensorFlow • PyTorch    |
-| 👁️ Computer Vision | OpenCV • MediaPipe • CNNs              |
-| 🧠 GenAI            | LLMs • Prompt Engineering • Embeddings |
-| 🔎 Retrieval        | FAISS • BM25 • RAG • Reranking         |
-| 🔗 AI Agents        | LangChain • LangGraph                  |
-| ⚡ Backend           | FastAPI • REST APIs                    |
-| 🎨 AI Interfaces    | Streamlit • React                      |
-| 📊 Data             | NumPy • Pandas • Matplotlib            |
-| 🗄️ Databases       | MySQL • PostgreSQL • Oracle            |
-
-</div>
+| Area             | Technologies                      |
+| ---------------- | --------------------------------- |
+| Machine Learning | Scikit-learn, TensorFlow, PyTorch |
+| Deep Learning    | CNN, LSTM, Bi-LSTM, Attention     |
+| Generative AI    | LLMs, Prompt Engineering          |
+| RAG              | FAISS, BM25, Cross-Encoder        |
+| AI Agents        | LangChain, LangGraph              |
+| Computer Vision  | OpenCV, MediaPipe                 |
+| Backend          | FastAPI, REST APIs                |
+| AI Apps          | Streamlit                         |
+| Databases        | MySQL, PostgreSQL, Oracle         |
+| Development      | Git, GitHub, VS Code              |
 
 ---
 
@@ -387,92 +312,81 @@ AI-powered system built around specialized agents for analyzing documents and pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gavijit312/gavijit312/main/profile/stats.svg" height="180" />
+### 🖤 Developer Statistics
 
-<img src="https://raw.githubusercontent.com/gavijit312/gavijit312/main/profile/top-langs.svg" height="180" />
+<img src="./profile/stats.svg" width="495"/>
+<img src="./profile/top-langs.svg" width="495"/>
+
+<br>
+
+### ⚡ CODE • CONTRIBUTIONS • LANGUAGES
 
 </div>
 
 ---
 
-## ☄️ Contribution Activity
+# ◈ CONTRIBUTION ACTIVITY
 
-<picture>
-  <source
-    media="(prefers-reduced-motion: reduce)"
-    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/comet-graph/comet-reduced.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/gavijit312/gavijit312/comet-graph/comet.svg"
-    alt="Avijit's GitHub Contribution Activity"
-    width="100%"
-  />
-</picture>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
----
-
-# 🎯 Current Focus
+<div align="center">
 
 ```text
-AI / ML
-  ├── Machine Learning
-  ├── Deep Learning
-  └── Computer Vision
-
-Generative AI
-  ├── LLMs
-  ├── RAG
-  ├── Corrective RAG
-  ├── Embeddings
-  └── AI Agents
-
-Engineering
-  ├── FastAPI
-  ├── REST APIs
-  ├── React
-  ├── Git / GitHub
-  └── Deployment
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                  BUILDING • LEARNING • SHIPPING                  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<br>
+
+<img
+src="https://raw.githubusercontent.com/gavijit312/gavijit312/comet-graph/comet.svg"
+alt="Avijit's GitHub Contribution Activity"
+width="100%"
+/>
+
+<br>
+
+### `AI / ML`   •   `GENAI`   •   `COMPUTER VISION`   •   `FULL STACK`
+
+<br>
+
+<sub>Every contribution represents another step forward.</sub>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/gavijit312">
-<img src="https://img.shields.io/badge/GitHub-gavijit312-181717?style=for-the-badge&logo=github" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </a>
 
+   
+
 <a href="https://www.linkedin.com/in/avijit-ghosh-530909339/">
-<img src="https://img.shields.io/badge/LinkedIn-Avijit%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⚡ Building with AI. Learning every day. Shipping real projects.
+### 🚀 Building AI. Learning Continuously. Creating Real-World Systems.
 
 </div>
