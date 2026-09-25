@@ -47,11 +47,11 @@ Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
 ```text
                  ┌──────────────────────────┐
-                 │        AI APPLICATION     │
+                 │      AI APPLICATION      │
                  └────────────┬─────────────┘
                               │
                  ┌────────────▼─────────────┐
@@ -73,12 +73,22 @@ Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-
 
 # 🛠️ Tech Stack
 
-## 💻 Programming
+## 💻 Programming Languages
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
-
+<p align="center">
+  <b>Python</b>&nbsp;&nbsp;&nbsp;
+  <b>Java</b>&nbsp;&nbsp;&nbsp;
+  <b>C</b>&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
+  <b>SQL</b>
 </p>
 
 ---
@@ -86,74 +96,153 @@ Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-
 ## 🤖 AI / Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55" height="55" alt="Scikit-learn" />
 </p>
 
-<div align="center">
-
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `OpenCV`
-
-</div>
+<p align="center">
+  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;
+  <b>TensorFlow</b>&nbsp;&nbsp;&nbsp;
+  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;
+  <b>NumPy</b>&nbsp;&nbsp;&nbsp;
+  <b>Pandas</b>&nbsp;&nbsp;&nbsp;
+  <b>Scikit-learn</b>
+</p>
 
 ---
 
 ## 🧠 Generative AI & LLM
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="55" height="55" alt="LangGraph" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/ollama/ffffff" width="55" height="55" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" width="55" height="55" alt="Google Gemini" />
+</p>
+
+<p align="center">
+  <b>LangChain</b>&nbsp;&nbsp;&nbsp;
+  <b>LangGraph</b>&nbsp;&nbsp;&nbsp;
+  <b>Hugging Face</b>&nbsp;&nbsp;&nbsp;
+  <b>Ollama</b>&nbsp;&nbsp;&nbsp;
+  <b>Gemini</b>
+</p>
+
+<br>
+
 <div align="center">
 
-`LangChain` • `LangGraph` • `Hugging Face` • `Ollama`
-
-`RAG` • `Corrective RAG` • `FAISS` • `BM25`
-
-`Cross-Encoder Reranking` • `Embeddings` • `Prompt Engineering`
-
-`LLM Applications` • `AI Agents` • `Multi-Agent Systems`
+🔎 **RAG**   •  
+🔄 **Corrective RAG**   •  
+🧬 **Embeddings**   •  
+🎯 **Cross-Encoder Reranking**   •  
+🤖 **AI Agents**
 
 </div>
 
 ---
 
-## 🌐 Web & AI Deployment
+## 👁️ Computer Vision
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,fastapi" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" width="55" height="55" alt="MediaPipe" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" />
 </p>
 
-<div align="center">
+<p align="center">
+  <b>OpenCV</b>&nbsp;&nbsp;&nbsp;
+  <b>MediaPipe</b>&nbsp;&nbsp;&nbsp;
+  <b>PyTorch</b>&nbsp;&nbsp;&nbsp;
+  <b>TensorFlow</b>
+</p>
 
-`FastAPI` • `Streamlit` • `REST APIs`
+---
 
-</div>
+## 🌐 Web Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
+  <b>React</b>&nbsp;&nbsp;&nbsp;
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Express</b>&nbsp;&nbsp;&nbsp;
+  <b>Tailwind CSS</b>
+</p>
+
+---
+
+## ⚡ AI Backend & Deployment
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="55" height="55" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
+</p>
+
+<p align="center">
+  <b>FastAPI</b>&nbsp;&nbsp;&nbsp;
+  <b>Streamlit</b>&nbsp;&nbsp;&nbsp;
+  <b>Docker</b>&nbsp;&nbsp;&nbsp;
+  <b>REST APIs</b>&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>
+</p>
 
 ---
 
 ## 🗄️ Databases
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="Oracle" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
-
+<p align="center">
+  <b>MySQL</b>&nbsp;&nbsp;&nbsp;
+  <b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;
+  <b>Oracle</b>
 </p>
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools & Platforms
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face" />
 </p>
 
-<div align="center">
-
-`Google Colab` • `Hugging Face` • `FAISS` • `PowerShell`
-
-</div>
+<p align="center">
+  <b>Git</b>&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>&nbsp;&nbsp;&nbsp;
+  <b>Jupyter</b>&nbsp;&nbsp;&nbsp;
+  <b>Google Colab</b>&nbsp;&nbsp;&nbsp;
+  <b>Hugging Face</b>
+</p>
 
 ---
 
@@ -163,16 +252,14 @@ Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-
 
 A retrieval system designed to improve the quality of context supplied to LLMs.
 
-**Pipeline**
-
 ```text
 PDF
  ↓
 Chunking
  ↓
 Dense Retrieval ─────┐
-                    ├──► Hybrid Retrieval
-BM25 Sparse Search ─┘
+                     ├──► Hybrid Retrieval
+BM25 Sparse Search ──┘
  ↓
 Cross-Encoder Reranking
  ↓
@@ -188,8 +275,6 @@ LLM Response
 ## 🤟 Indian Sign Language Recognition
 
 Computer vision system for recognizing Indian Sign Language using landmark-based sequence modelling.
-
-**Pipeline**
 
 ```text
 Video / Webcam
@@ -215,7 +300,7 @@ Deep learning project for classifying skin lesion images using the HAM10000 data
 
 **Tech:** Python • TensorFlow • CNN • Computer Vision • OpenCV • NumPy • Pandas
 
-Focus areas include:
+Focus areas:
 
 * Image preprocessing
 * Dataset splitting
@@ -229,8 +314,6 @@ Focus areas include:
 ## 🖼️ AI Image Authenticity Detector
 
 Deep learning system for distinguishing between real and AI-generated images.
-
-**Architecture**
 
 ```text
 Input Image
@@ -252,9 +335,7 @@ Real / AI Generated
 
 ## ⚖️ AI Due Diligence Copilot
 
-AI-powered system designed around multiple specialized agents for analyzing documents and producing structured insights.
-
-**Agent Architecture**
+AI-powered system built around specialized agents for analyzing documents and producing structured insights.
 
 ```text
                     ┌───────────────┐
@@ -282,21 +363,21 @@ AI-powered system designed around multiple specialized agents for analyzing docu
 
 ---
 
-# 🧩 My AI Engineering Focus
+# 🧩 AI Engineering Focus
 
 <div align="center">
 
-| Area                | Technologies                         |
-| ------------------- | ------------------------------------ |
-| 🤖 Machine Learning | Scikit-learn, TensorFlow, PyTorch    |
-| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs              |
-| 🧠 GenAI            | LLMs, Prompt Engineering, Embeddings |
-| 🔎 Retrieval        | FAISS, BM25, RAG, Reranking          |
-| 🔗 AI Agents        | LangChain, LangGraph                 |
-| ⚡ Backend           | FastAPI, REST APIs                   |
-| 🎨 AI Interfaces    | Streamlit, React                     |
-| 📊 Data             | NumPy, Pandas, Matplotlib            |
-| 🗄️ Databases       | MySQL, PostgreSQL, Oracle            |
+| Area                | Technologies                           |
+| ------------------- | -------------------------------------- |
+| 🤖 Machine Learning | Scikit-learn • TensorFlow • PyTorch    |
+| 👁️ Computer Vision | OpenCV • MediaPipe • CNNs              |
+| 🧠 GenAI            | LLMs • Prompt Engineering • Embeddings |
+| 🔎 Retrieval        | FAISS • BM25 • RAG • Reranking         |
+| 🔗 AI Agents        | LangChain • LangGraph                  |
+| ⚡ Backend           | FastAPI • REST APIs                    |
+| 🎨 AI Interfaces    | Streamlit • React                      |
+| 📊 Data             | NumPy • Pandas • Matplotlib            |
+| 🗄️ Databases       | MySQL • PostgreSQL • Oracle            |
 
 </div>
 
@@ -311,8 +392,6 @@ AI-powered system designed around multiple specialized agents for analyzing docu
 <img src="https://raw.githubusercontent.com/gavijit312/gavijit312/main/profile/top-langs.svg" height="180" />
 
 </div>
-
-<br>
 
 ---
 
@@ -390,7 +469,7 @@ Engineering
 
 </div>
 
----
+<br>
 
 <div align="center">
 
