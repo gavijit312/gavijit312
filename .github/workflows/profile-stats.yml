@@ -3,9 +3,6 @@ name: Update GitHub Profile Stats
 on:
 workflow_dispatch:
 
-schedule:
-- cron: "0 0 * * *"
-
 permissions:
 contents: write
 
@@ -30,11 +27,11 @@ steps:
     uses: stats-organization/github-readme-stats-action@v2
     with:
       card: top-langs
-      options: username=${{ github.repository_owner }}&layout=compact&langs_count=8
+      options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
       path: profile/top-langs.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Commit generated stats
+  - name: Commit Stats
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
