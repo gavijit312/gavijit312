@@ -1,8 +1,8 @@
 
       <svg
-        width="350"
-        height="215"
-        viewBox="0 0 350 215"
+        width="300"
+        height="285"
+        viewBox="0 0 300 285"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #00F7FF;
+            fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #C9D1D9;
+      fill: #434d58;
     }
     .stagger {
       opacity: 0;
@@ -97,12 +97,12 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="15"
+          rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="349"
-          fill="#0D1117"
-          stroke-opacity="0"
+          width="299"
+          fill="#fffefe"
+          stroke-opacity="1"
         />
 
         
@@ -127,107 +127,102 @@
         >
           
     <svg data-testid="lang-items" x="25">
-      
-    <g transform="translate(0, 0)">
       <g transform="translate(0, 0)">
-        <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 54.27%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
+      <text x="215" y="34" class="lang-name">54.27%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
+      <svg data-testid="lang-progress" width="54.26627610318435%">
+        <rect
+            height="8"
+            fill="#3178c6"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 750ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 32)">
+  </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 35.37%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
+      <text x="215" y="34" class="lang-name">35.37%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
+      <svg data-testid="lang-progress" width="35.37014289163963%">
+        <rect
+            height="8"
+            fill="#3572A5"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 900ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 64)">
+  </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 4.94%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
+      <text x="215" y="34" class="lang-name">4.94%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
+      <svg data-testid="lang-progress" width="4.938738227975684%">
+        <rect
+            height="8"
+            fill="#e34c26"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1050ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 96)">
+  </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 3.15%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
+      <text x="215" y="34" class="lang-name">3.15%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
+      <svg data-testid="lang-progress" width="3.1491805516184237%">
+        <rect
+            height="8"
+            fill="#663399"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1200ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
-  </g><g transform="translate(0, 128)">
+  </g><g transform="translate(0, 160)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 2.28%
-      </text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
+      <text x="215" y="34" class="lang-name">2.28%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
+      <svg data-testid="lang-progress" width="2.2756622255819083%">
+        <rect
+            height="8"
+            fill="#f1e05a"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 1350ms;"
+        />
+      </svg>
+    </svg>
+  
     </g>
   </g>
-      </g>
-
-      <g transform="translate(125, -45)">
-        <svg width="350" height="350">
-       <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-donut"
-          size="54.26"
-          d="M 101.67952066212311 171.31551446558743 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
-          stroke="#3178c6"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 700ms">
-        <path
-          data-testid="lang-donut"
-          size="35.37"
-          d="M 82.30215369043657 71.60902182122868 A 56.66666666666667 56.66666666666667 0 0 0 101.67952066212311 171.31551446558743"
-          stroke="#3572A5"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 800ms">
-        <path
-          data-testid="lang-donut"
-          size="4.94"
-          d="M 97.70620130884066 63.26618104597412 A 56.66666666666667 56.66666666666667 0 0 0 82.30215369043657 71.60902182122868"
-          stroke="#e34c26"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 900ms">
-        <path
-          data-testid="lang-donut"
-          size="3.15"
-          d="M 108.57652923497785 60.58047596478802 A 56.66666666666667 56.66666666666667 0 0 0 97.70620130884066 63.26618104597412"
-          stroke="#663399"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 1000ms">
-        <path
-          data-testid="lang-donut"
-          size="2.28"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 108.57652923497785 60.58047596478802"
-          stroke="#f1e05a"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      </svg>
-      </g>
-    </g>
-  
     </svg>
   
         </g>
