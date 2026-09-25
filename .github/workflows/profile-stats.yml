@@ -12,7 +12,8 @@ permissions:
   contents: write
 
 steps:
-  - uses: actions/checkout@v6
+  - name: Checkout repository
+    uses: actions/checkout@v6
 
   - name: Generate stats card
     uses: stats-organization/github-readme-stats-action@v2
@@ -28,11 +29,11 @@ steps:
       path: profile/top-langs.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Commit cards
+  - name: Commit generated cards
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add profile/*.svg
-      git commit -m "Update README cards" || exit 0
+      git add profile/stats.svg profile/top-langs.svg
+      git commit -m "Update GitHub profile stats" || exit 0
       git push
 ```
