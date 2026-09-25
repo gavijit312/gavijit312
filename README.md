@@ -1,261 +1,320 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=130&section=header"/>
+<div align="center">
 
-<h1 align="center">
-  ⚡ Hey, I'm Avijit Ghosh
-</h1>
+# ⚡ Hey, I'm Avijit Ghosh
 
-<h3 align="center">
-  🤖 AI/ML Developer &nbsp;•&nbsp; 🧠 GenAI & LLMs &nbsp;•&nbsp; 🔎 RAG &nbsp;•&nbsp; 👁️ Computer Vision
-</h3>
+### 🤖 AI/ML Developer • 🧠 GenAI & LLMs • 🔎 RAG • 👁️ Computer Vision
 
-<p align="center">
-  <i>Building intelligent systems that solve real-world problems.</i>
-</p>
+Building intelligent systems that connect **AI, data, retrieval and real-world applications.**
 
-<p align="center">
-  <a href="https://github.com/gavijit312">
-    <img src="https://img.shields.io/badge/GitHub-gavijit312-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/avijit-ghosh-530909339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/gavijit312">
+  <img src="https://img.shields.io/badge/GitHub-gavijit312-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/avijit-ghosh-530909339/">
+  <img src="https://img.shields.io/badge/LinkedIn-Avijit%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/5666964d5dfb5bb1e6642a100af2bda3bff70fbb916d6fe43ccf3ddd7ac6662c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61632f36332f66382f61633633663866656333623761373839343137653934343362663839356539342e676966" width="100%" />
+
+</div>
 
 ---
 
-<img src="https://camo.githubusercontent.com/5666964d5dfb5bb1e6642a100af2bda3bff70fbb916d6fe43ccf3ddd7ac6662c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61632f36332f66382f61633633663866656333623761373839343137653934343362663839356539342e676966" width="100%"/>
-
-<br/>
-
 ## 🧠 About Me
 
-🎓 B.E. student passionate about **Artificial Intelligence, Machine Learning and Software Development**
+I'm **Avijit Ghosh**, an engineering student focused on building practical **AI/ML and Generative AI applications**.
 
-🤖 Building applications with **Generative AI, LLMs, RAG and Agentic AI**
+My work mainly revolves around:
 
-🔎 Exploring **Corrective RAG, Hybrid Retrieval, Reranking and AI-powered search**
+* 🧠 **Generative AI & Large Language Models**
+* 🔎 **RAG, Corrective RAG & intelligent retrieval**
+* 🤖 **AI agents and multi-agent systems**
+* 👁️ **Computer Vision**
+* 📊 **Machine Learning & Data Science**
+* ⚡ **FastAPI-based AI backends**
+* 🎨 **Interactive AI/Web applications**
 
-👁️ Working with **Computer Vision, Deep Learning and sequence models**
+I enjoy taking an idea from **dataset → model → retrieval → API → user-facing application**.
 
-💻 Programming with **Python, Java, C, JavaScript and SQL**
-
-🚀 Focused on building **practical and production-oriented AI applications**
-
-📚 Currently strengthening **DSA, AI Engineering, LLMs and Full-Stack Development**
+Currently, I'm focusing on becoming a stronger **AI/ML engineer with production-oriented GenAI skills**.
 
 ---
 
 ## 🚀 What I'm Building
 
 ```text
-🤖 Generative AI       → LLM Applications & AI Assistants
-🔎 Retrieval           → RAG, Corrective RAG & Hybrid Search
-🧠 AI Agents           → LangGraph & Multi-Agent Systems
-👁️ Computer Vision    → Image & Video Intelligence
-📊 Machine Learning    → Classification & Prediction Systems
-🌐 AI + Full Stack     → FastAPI + React + Streamlit
+                 ┌──────────────────────────┐
+                 │        AI APPLICATION     │
+                 └────────────┬─────────────┘
+                              │
+                 ┌────────────▼─────────────┐
+                 │      LLM / AI AGENTS     │
+                 └────────────┬─────────────┘
+                              │
+              ┌───────────────▼────────────────┐
+              │       RAG / CORRECTIVE RAG     │
+              │   Dense + Sparse + Reranking   │
+              └───────────────┬────────────────┘
+                              │
+                 ┌────────────▼─────────────┐
+                 │       DATA / MODELS      │
+                 │ ML • CV • NLP • Embeddings│
+                 └──────────────────────────┘
 ```
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming
+## 💻 Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
-</p>
+<p align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+
 </p>
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+<div align="center">
+
+`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `OpenCV`
+
+</div>
 
 ---
 
 ## 🧠 Generative AI & LLM
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Corrective%20RAG-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-00A98F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BM25-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cross--Encoder-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+`LangChain` • `LangGraph` • `Hugging Face` • `Ollama`
+
+`RAG` • `Corrective RAG` • `FAISS` • `BM25`
+
+`Cross-Encoder Reranking` • `Embeddings` • `Prompt Engineering`
+
+`LLM Applications` • `AI Agents` • `Multi-Agent Systems`
+
+</div>
 
 ---
 
-## 🌐 Web Development
+## 🌐 Web & AI Deployment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,tailwind" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,fastapi" />
+
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<div align="center">
+
+`FastAPI` • `Streamlit` • `REST APIs`
+
+</div>
 
 ---
 
 ## 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+
 </p>
 
 ---
 
-## 🧰 Tools
+## 🔧 Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+
 </p>
+
+<div align="center">
+
+`Google Colab` • `Hugging Face` • `FAISS` • `PowerShell`
+
+</div>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-## 🔎 Corrective RAG
+## 🔎 Corrective RAG — Intelligent Document Retrieval
 
-**AI Document Question Answering & Retrieval Optimization**
+A retrieval system designed to improve the quality of context supplied to LLMs.
 
-An advanced RAG pipeline combining multiple retrieval and evaluation techniques.
+**Pipeline**
 
-`Python` `FAISS` `BM25` `Cross-Encoder` `RAG` `LLM` `FastAPI` `Streamlit`
+```text
+PDF
+ ↓
+Chunking
+ ↓
+Dense Retrieval ─────┐
+                    ├──► Hybrid Retrieval
+BM25 Sparse Search ─┘
+ ↓
+Cross-Encoder Reranking
+ ↓
+Retrieval Quality Evaluation
+ ↓
+LLM Response
+```
 
-* 🔹 Hybrid dense + sparse retrieval
-* 🔹 FAISS vector search
-* 🔹 BM25 keyword retrieval
-* 🔹 Cross-Encoder reranking
-* 🔹 Retrieval quality evaluation
-* 🔹 PDF question answering
-* 🔹 LLM-powered responses
+**Tech:** Python • FAISS • BM25 • Cross-Encoder • RAG • FastAPI • Streamlit • LLMs
 
 ---
 
 ## 🤟 Indian Sign Language Recognition
 
-Deep-learning system for recognizing Indian Sign Language gestures from video sequences.
+Computer vision system for recognizing Indian Sign Language using landmark-based sequence modelling.
 
-`Python` `MediaPipe` `PyTorch` `LSTM` `Computer Vision`
+**Pipeline**
 
-* 🔹 Hand and pose landmark extraction
-* 🔹 Temporal sequence modeling
-* 🔹 LSTM-based recognition
-* 🔹 Video prediction
-* 🔹 Sign-to-text applications
+```text
+Video / Webcam
+      ↓
+MediaPipe Holistic
+      ↓
+Body + Hand + Face Landmarks
+      ↓
+Temporal Sequence
+      ↓
+Bi-LSTM + Attention
+      ↓
+Sign / Word Prediction
+```
+
+**Tech:** Python • MediaPipe • OpenCV • PyTorch • LSTM • Attention
 
 ---
 
 ## 🩺 Skin Cancer Detection
 
-Deep-learning image classification system using the HAM10000 dataset.
+Deep learning project for classifying skin lesion images using the HAM10000 dataset.
 
-`Python` `TensorFlow` `OpenCV` `NumPy` `Pandas`
+**Tech:** Python • TensorFlow • CNN • Computer Vision • OpenCV • NumPy • Pandas
 
-* 🔹 Medical image preprocessing
-* 🔹 Deep-learning classification
-* 🔹 Dataset analysis
-* 🔹 Model evaluation
-* 🔹 Computer vision pipeline
+Focus areas include:
+
+* Image preprocessing
+* Dataset splitting
+* Model training
+* Validation
+* Performance evaluation
+* Medical image classification
 
 ---
 
 ## 🖼️ AI Image Authenticity Detector
 
-Computer vision system for distinguishing real images from AI-generated images.
+Deep learning system for distinguishing between real and AI-generated images.
 
-`Python` `PyTorch` `EfficientNet` `Computer Vision`
-
-* 🔹 Real vs AI-generated classification
-* 🔹 Deep-learning feature extraction
-* 🔹 Image preprocessing
-* 🔹 Model evaluation
-
----
-
-## 🧑‍💼 AI Due Diligence Copilot
-
-AI-powered multi-agent system for legal, financial, compliance and risk analysis.
-
-`Python` `LangGraph` `RAG` `LLM` `FastAPI` `Streamlit`
+**Architecture**
 
 ```text
-                    ┌────────────────────┐
-                    │   User / Documents │
-                    └──────────┬─────────┘
-                               │
-                               ▼
-                    ┌────────────────────┐
-                    │   RAG / Retrieval  │
-                    └──────────┬─────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ▼                 ▼                 ▼
-        ⚖️ Legal          💰 Finance       🛡️ Compliance
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ▼
-                        ⚠️ Risk Analysis
-                               │
-                               ▼
-                        📝 Final Summary
+Input Image
+     ↓
+Preprocessing
+     ↓
+EfficientNet-B4
+     ↓
+Feature Extraction
+     ↓
+Binary Classification
+     ↓
+Real / AI Generated
 ```
+
+**Tech:** Python • PyTorch • EfficientNet-B4 • Computer Vision
 
 ---
 
-# ⚡ GitHub Analytics
+## ⚖️ AI Due Diligence Copilot
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="49%"
-    alt="Avijit's GitHub Statistics"
-  />
+AI-powered system designed around multiple specialized agents for analyzing documents and producing structured insights.
 
-<img
- src="./profile/top-langs.svg"
- width="49%"
- alt="Avijit's Top Languages"
-/>
+**Agent Architecture**
 
-</p>
+```text
+                    ┌───────────────┐
+                    │   User Query  │
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │  LangGraph    │
+                    │ Orchestration │
+                    └───────┬───────┘
+                            │
+       ┌────────────────────┼────────────────────┐
+       ▼                    ▼                    ▼
+   Legal Agent         Finance Agent       Compliance Agent
+       │                    │                    │
+       └────────────────────┼────────────────────┘
+                            ▼
+                     Risk Analysis
+                            │
+                            ▼
+                     Final Summary
+```
 
-<br/>
+**Tech:** LangGraph • RAG • LLMs • FastAPI • Streamlit
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=gavijit312&theme=dark&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"
-    width="70%"
-    alt="Avijit's GitHub Streak"
-  />
-</p>
+---
 
-<br/>
+# 🧩 My AI Engineering Focus
+
+<div align="center">
+
+| Area                | Technologies                         |
+| ------------------- | ------------------------------------ |
+| 🤖 Machine Learning | Scikit-learn, TensorFlow, PyTorch    |
+| 👁️ Computer Vision | OpenCV, MediaPipe, CNNs              |
+| 🧠 GenAI            | LLMs, Prompt Engineering, Embeddings |
+| 🔎 Retrieval        | FAISS, BM25, RAG, Reranking          |
+| 🔗 AI Agents        | LangChain, LangGraph                 |
+| ⚡ Backend           | FastAPI, REST APIs                   |
+| 🎨 AI Interfaces    | Streamlit, React                     |
+| 📊 Data             | NumPy, Pandas, Matplotlib            |
+| 🗄️ Databases       | MySQL, PostgreSQL, Oracle            |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gavijit312/gavijit312/main/profile/stats.svg" height="180" />
+
+<img src="https://raw.githubusercontent.com/gavijit312/gavijit312/main/profile/top-langs.svg" height="180" />
+
+</div>
+
+<br>
+
+---
 
 ## ☄️ Contribution Activity
 
@@ -271,44 +330,70 @@ AI-powered multi-agent system for legal, financial, compliance and risk analysis
   />
 </picture>
 
+---
 
-<br/>
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg" alt="GitHub Contribution Snake">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/gavijit312/gavijit312/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </picture>
+
+---
+
+# 🎯 Current Focus
+
+```text
+AI / ML
+  ├── Machine Learning
+  ├── Deep Learning
+  └── Computer Vision
+
+Generative AI
+  ├── LLMs
+  ├── RAG
+  ├── Corrective RAG
+  ├── Embeddings
+  └── AI Agents
+
+Engineering
+  ├── FastAPI
+  ├── REST APIs
+  ├── React
+  ├── Git / GitHub
+  └── Deployment
+```
+
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/gavijit312">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-gavijit312-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/avijit-ghosh-530909339/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Avijit%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:gavijit312@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>💡 Building intelligent systems, one project at a time.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⭐ Explore my repositories and let's build something intelligent.</b>
-</p>
+### ⚡ Building with AI. Learning every day. Shipping real projects.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=90&section=footer"/>
+</div>
